@@ -1,0 +1,2 @@
+# d8c078633704f04617c0bd125daa1ece
+App id 1AB10-80286-8AD9E-465B2-5172A, version name - 1.0
